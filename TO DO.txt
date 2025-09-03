@@ -1,0 +1,15 @@
+Yleistä:
+-nettisivun nimi
+-molotovit
+-yhteystietosivu tekijöiden github-käyttäjille
+
+Visuaalinen:
+-värimaailma
+-yleisilme
+-maskotti?
+
+Koodaaminen:
+-pörssisähkön hinnat näkymään
+-värikoodaus hintojen kanssa
+-voiko valita erikseen asian mitä haluaa tehdä ja sitten se antaa sille värikoodin
+taloudellisesta kannattavuudesta?
