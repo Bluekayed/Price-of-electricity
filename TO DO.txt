@@ -1,6 +1,9 @@
+Figma:
+https://www.figma.com/design/xQTe4qcu0GJlkqBjIUxfXA/pricechecker?node-id=0-1&p=f&t=BHqgcAvX4tokiT4S-0
+
 Yleistä:
 -nettisivun nimi
--molotovit
+-molotovit maininta
 -yhteystietosivu tekijöiden github-käyttäjille
 
 Visuaalinen:
@@ -13,3 +16,8 @@ Koodaaminen:
 -värikoodaus hintojen kanssa
 -voiko valita erikseen asian mitä haluaa tehdä ja sitten se antaa sille värikoodin
 taloudellisesta kannattavuudesta?
+
+Palaveri log 3.9.2025
+-Aloitettiin githubin codespacessa koodaamista, työ on aluillaan
+-Tehtiin ensimmäiset rautalankasuunnitelmat selain- ja mobiiliversioista (linkki figmaan 
+tässä ja readmessa)

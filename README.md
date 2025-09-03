@@ -1,0 +1,1 @@
+Figma luonnokset: https://www.figma.com/design/xQTe4qcu0GJlkqBjIUxfXA/pricechecker?node-id=0-1&p=f&t=BHqgcAvX4tokiT4S-0
